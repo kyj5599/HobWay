@@ -1,0 +1,13 @@
+.me-auto {
+  visibility: hidden;
+}
+.logo {
+  width: 250px;
+  height: 80px;
+}
+.container {
+  border-top: 5px solid #009223;
+}
+.hr {
+  margin: 0;
+}
